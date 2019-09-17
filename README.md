@@ -5,10 +5,10 @@
   Also, the user can search for their favorite rock band. When the user does this, a new button is created for the new rock band and then it can be clicked on to populate the page with ten new gifs.
   The user can create as many new buttons for their favorite bands as they want.
   
-  # URL
+  ### URL
   
   
-  # Tools Used in Creation
+  ### Tools Used in Creation
   * HTML
   * CSS
   * Javascript
