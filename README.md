@@ -6,7 +6,7 @@
   The user can create as many new buttons for their favorite bands as they want.
   
   ### URL
-  
+  https://wferebee.github.io/Giphy_API/
   
   ### Tools Used in Creation
   * HTML
