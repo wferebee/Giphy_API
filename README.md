@@ -9,10 +9,10 @@
   
   
   # Tools Used in Creation
-  *html
-  *css
-  *javascript
-  *jquery
-  *Ajax
-  *The Giphy API
-  *Google Images
+  * html
+  * css
+  * javascript
+  * jquery
+  * Ajax
+  * The Giphy API
+  * Google Images
