@@ -1,0 +1,83 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    height: 500px; /* set the bodys height pretty small in hopes that my layout will look the same on most computers. idk if this will actually work. crossing my finger*/
+    background-color: black;
+    background-image: url("../images/god-listens-to-rock-music.jpg"); 
+    background-repeat: repeat-x;
+    background-size: 60%;
+    background-position-y: -82%; /* hopefuly this makes layout more responsive. hopefully everything shows up where it needs to be */
+    background-position-x: -25%; 
+    /* background-position-y: 140px; */
+    /* background-position-x: -155px; */
+}
+
+.header {
+    color: rgb(255, 230, 0);
+}
+
+#name {
+    color: rgb(255, 196, 0);
+    position: fixed;
+    left: 90%;
+    top: 90%;
+    font-size: 10px;
+    font-style: italic;
+}
+
+.gifDiv {
+    display: inline-block;
+    margin: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(255, 230, 0);
+}
+
+.topics {
+    padding: 5px;
+    margin: 5px;
+    clear: both;
+}
+
+.shrink {
+    -webkit-transform:scale(0.5);
+    -moz-transform:scale(0.5);
+    -ms-transform:scale(0.5);
+    transform:scale(0.5);
+    position: relative;
+    bottom: 20%; /* again hoping this helps with layout on differnt size screens */
+    /* bottom: 100px; */
+}
+
+#rating {
+    border-style: solid;
+    border-top-width: 7px;
+    border-top-color: rgb(255, 51, 0);
+    border-bottom-color:rgb(255, 51, 0);
+    border-bottom-width: 7px;
+    border-left-style: none;
+    border-right-style: none;
+    color: white;
+    background-color: black;
+    position: relative;
+    top: 5px;
+    color: rgb(255, 230, 0);
+}
+
+.topics {
+    border-color:rgb(255, 51, 0);
+    color:rgb(255, 230, 0);
+    background-color: black;
+}
+
+#new-button {
+    color: rgb(255, 230, 0);
+    font-style: italic;
+}
+
+#submit-button {
+    border-color:rgb(255, 51, 0);
+    color:rgb(255, 230, 0);
+    background-color: black;
+}
+
